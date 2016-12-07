@@ -1,2 +1,4 @@
  Programação é muito difícil, será que é realmente necessário? Fica a dúvida. É claro.
 Posso programar em C ou em R
+ Meu proximo objetivo eh inicializar o LoL
+
